@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fffaf0;
+  text-align: center;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+button {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  background-color: #ff8c42;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.recipe {
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 2px dashed #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+}

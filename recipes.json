@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spaghetti Aglio e Olio",
+    "ingredients": ["Spaghetti", "Garlic", "Olive Oil", "Red Pepper Flakes", "Parsley"],
+    "instructions": "Cook spaghetti. Sauté garlic and chili flakes in olive oil. Toss with spaghetti and parsley."
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "ingredients": ["Chicken", "Soy Sauce", "Broccoli", "Bell Peppers", "Garlic", "Ginger"],
+    "instructions": "Cook chicken. Add veggies and stir-fry with soy sauce, garlic, and ginger."
+  },
+  {
+    "name": "Veggie Tacos",
+    "ingredients": ["Tortillas", "Black Beans", "Avocado", "Corn", "Lime", "Cilantro"],
+    "instructions": "Warm tortillas. Fill with beans, avocado, and corn. Top with lime juice and cilantro."
+  }
+]
