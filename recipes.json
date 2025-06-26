@@ -1,17 +1,125 @@
 [
   {
-    "name": "Spaghetti Aglio e Olio",
-    "ingredients": ["Spaghetti", "Garlic", "Olive Oil", "Red Pepper Flakes", "Parsley"],
-    "instructions": "Cook spaghetti. Sauté garlic and chili flakes in olive oil. Toss with spaghetti and parsley."
+    "name": "Broccoli Pasta",
+    "ingredients": [
+      "2 large broccoli crowns",
+      "3 tbsp extra-virgin olive oil",
+      "2 cloves garlic, thinly sliced",
+      "1/4 tsp crushed red pepper flakes",
+      "1 lb pasta of choice",
+      "1/2 cup freshly grated Parmesan cheese",
+      "Kosher salt to taste",
+      "Optional: lemon, chicken or rotisserie chicken"
+    ],
+    "instructions": "Boil water and salt it. Cook broccoli until fork tender, 4–6 min. In a separate pan, heat oil, then add garlic and chili flakes off heat. Mash cooked broccoli into garlic oil. Cook pasta al dente, reserve 1/2 cup pasta water, then drain. Add pasta, cheese, and some water to broccoli mix; stir until creamy. Add more water if needed. Season and serve. Leftovers last 3 days refrigerated."
   },
   {
-    "name": "Chicken Stir Fry",
-    "ingredients": ["Chicken", "Soy Sauce", "Broccoli", "Bell Peppers", "Garlic", "Ginger"],
-    "instructions": "Cook chicken. Add veggies and stir-fry with soy sauce, garlic, and ginger."
+    "name": "Black Bean Quesadillas",
+    "ingredients": [
+      "1 can black or refried beans",
+      "Tortillas",
+      "Cheese",
+      "Spices of choice",
+      "Optional: salsa, sour cream, chicken, guac or avocado"
+    ],
+    "instructions": "Heat and season beans, optionally mash. Spread on tortilla, top with cheese, fold, and heat. Serve with desired toppings like sour cream or hot sauce."
   },
   {
-    "name": "Veggie Tacos",
-    "ingredients": ["Tortillas", "Black Beans", "Avocado", "Corn", "Lime", "Cilantro"],
-    "instructions": "Warm tortillas. Fill with beans, avocado, and corn. Top with lime juice and cilantro."
+    "name": "Vodka Tortellini",
+    "ingredients": [
+      "Tortellini",
+      "Vodka sauce",
+      "Optional: chicken, bell peppers, broccoli"
+    ],
+    "instructions": "Cook tortellini. Heat vodka sauce with chicken and/or veggies. Combine and serve."
+  },
+  {
+    "name": "Broccoli Noodles and Cheese Casserole",
+    "ingredients": [
+      "1 (16 oz) package egg noodles",
+      "1 head broccoli",
+      "2 cups cottage cheese",
+      "2 cups shredded cheddar cheese",
+      "Salt and pepper to taste"
+    ],
+    "instructions": "Preheat oven to 350°F. Cook noodles until al dente. Steam broccoli until tender. Mix pasta, broccoli, and cottage cheese in baking dish. Sprinkle with cheddar and bake 8–10 minutes until bubbly."
+  },
+  {
+    "name": "Eggy Ramen Noodles",
+    "ingredients": [
+      "Pack of ramen",
+      "1 egg",
+      "Kewpie mayo",
+      "Sriracha",
+      "Optional: green onions, tofu, sprouts, etc."
+    ],
+    "instructions": "Cook ramen, keep a bit of broth. Mix egg with sriracha and mayo in a bowl. Slowly drizzle hot broth into egg mix to temper. Add noodles and toppings."
+  },
+  {
+    "name": "Greek Inspired Salad",
+    "ingredients": [
+      "Feta cheese",
+      "Spinach blend",
+      "Ken's Greek vinaigrette",
+      "Kalamata olives",
+      "Cucumber",
+      "Bell pepper",
+      "Optional: any other veggies, chicken"
+    ],
+    "instructions": "Chop and mix all ingredients. Optionally top with chicken. Serve cold."
+  },
+  {
+    "name": "Shrimp Tacos",
+    "ingredients": [
+      "Shrimp",
+      "Tortillas",
+      "Limes",
+      "Hot sauces",
+      "Cabbage"
+    ],
+    "instructions": "Cook and season shrimp. Assemble tacos with shrimp, cabbage, lime, and sauce."
+  },
+  {
+    "name": "Chicken Curry Stuffed Sweet Potatoes",
+    "ingredients": [
+      "4 medium sweet potatoes",
+      "1/2 cup Madras curry sauce",
+      "1.5 cups cooked cauliflower",
+      "8 oz chopped cooked chicken",
+      "4 tsp chopped fresh cilantro"
+    ],
+    "instructions": "Microwave or bake sweet potatoes until soft. Split open and fluff. Top with curry sauce, cauliflower, chicken, and cilantro. Serve warm."
+  },
+  {
+    "name": "Chili-Rubbed Tilapia with Asparagus & Lemon",
+    "ingredients": [
+      "2 lbs asparagus",
+      "2 tbsp chili powder",
+      "1/2 tsp garlic powder",
+      "1/2 tsp salt, divided",
+      "1 lb tilapia or white fish",
+      "2 tbsp extra-virgin olive oil",
+      "3 tbsp lemon juice"
+    ],
+    "instructions": "Steam asparagus. Mix spices and coat fish. Pan-sear fish until opaque. Add lemon juice and asparagus to pan to coat and heat. Serve with fish."
+  },
+  {
+    "name": "Spicy Chicken Lettuce Wraps",
+    "ingredients": [
+      "2 cloves garlic, minced",
+      "1 head of butter lettuce, leaves separated",
+      "1 lb ground chicken",
+      "1 tsp ground ginger",
+      "1/4 cup chopped peanuts",
+      "1 tbsp sriracha sauce",
+      "1 lime, cut into wedges",
+      "1/4 cup chopped cilantro",
+      "1 tbsp hoisin sauce",
+      "1 tbsp soy sauce",
+      "1/2 onion, diced",
+      "1 tbsp olive oil"
+    ],
+    "instructions": "Heat olive oil in a large skillet over medium-high heat. Add onion and garlic and cook until softened (approximately 10 minutes). Add ground chicken and cook until no traces of pink remain (about 7–10 minutes). Stir in soy sauce, hoisin sauce, sriracha sauce, and ground ginger. Cook for 5 minutes or until sauce thickens slightly, stirring occasionally. Stir in chopped peanuts. Spoon chicken mixture onto lettuce leaves. Garnish with cilantro and lime wedges. Serve with your favorite dipping sauce."
   }
+  
 ]

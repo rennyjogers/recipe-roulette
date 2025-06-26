@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #fffaf0;
+  background-color: #98d2ff;
   text-align: center;
   padding: 2rem;
 }
@@ -14,7 +14,7 @@ button {
   padding: 1rem 2rem;
   font-size: 1.2rem;
   cursor: pointer;
-  background-color: #ff8c42;
+  background-color: #4271ff;
   color: white;
   border: none;
   border-radius: 5px;
@@ -27,4 +27,9 @@ button {
   border: 2px dashed #ccc;
   border-radius: 10px;
   background-color: #fff;
+  text-align: left; /* <- This aligns the recipe content left */
+}
+
+.recipe h2, .recipe h4 {
+  text-align: center; /* Keep headings centered if desired */
 }
